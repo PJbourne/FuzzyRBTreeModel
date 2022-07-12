@@ -1,0 +1,14 @@
+metadata_version: 1
+name: Fuzzy Red-BlackTree model
+description: Fuzzy Time Series Model based on Red-Black Trees for Stock Index Forecasting
+tags:
+- Finance
+- Modeling
+- evolving Fuzzy Systems
+authors:
+- name: Thiago Henrique Barbosa de Carvalho Tavares
+  affiliations:
+  - name: Instituto Federal de Minas Gerais
+- name: Eduardo Mazoni Andrade Marçal Mendes
+  affiliations:
+  - name: UFMG
